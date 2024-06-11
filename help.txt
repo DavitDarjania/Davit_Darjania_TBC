@@ -1,0 +1,8 @@
+    --data or -d (showes all registered users)
+
+    --pig-dice-game or -p (showes all wins and looses of users in pig dice game)
+    --tic-tac-toe or -t (showes all wins and looses of users in tic tac toe)
+
+    sorted data:
+       -d --sorted 
+       --data --sorted
